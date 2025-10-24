@@ -1,4 +1,5 @@
-# iMPOSTURE ## ✨ Features  
+# iMPOSTURE 
+## ✨ Features  
 - 📷 **Posture Detection** – Detects slouching or poor posture via camera  
 - ⏱️ **Break Reminders** – Alerts you when it's time to take a wellness break  
 - 📱 **Distraction Tracking** – Monitors phone usage and logs distractions  
